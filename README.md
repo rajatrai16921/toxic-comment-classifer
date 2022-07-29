@@ -20,4 +20,4 @@ Welcome to the Toxic Comments Classifier Repo.
 6. You should see the app in action
 
 ### watch the video 
-![](Flask app for toxic comments\toxic gif.gif)
+![](https://github.com/rajatrai16921/toxic-comment-classifer/blob/main/Flask%20app%20for%20toxic%20comments/toxic%20gif.gif)
