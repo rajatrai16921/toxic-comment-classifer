@@ -2,7 +2,7 @@ Hi guys!
 
 Welcome to the Toxic Comments Classifier Repo. 
 
-### Before you start the tutorial, please do the following for a smooth, less 'buggy' experience:
+### Before you start the tutorial, please do the following for a smooth experience:
 1. Clone the repo to your local directory 
 2. Create a new environment through Anaconda Prompt
 - Enter 'conda env create -f toxic_test.yml'
@@ -19,6 +19,5 @@ Welcome to the Toxic Comments Classifier Repo.
 5. Copy the IP address where the Flask is running at (eg. 'http://127.0.0.1:5000/) into your browser
 6. You should see the app in action
 
-Hope you find the tutorials useful. If you have any constructive feedback, please send an email to linebyline.ai@gmail.com
- 
-Thank you!
+### watch the video 
+![](Flask app for toxic comments\toxic gif.gif)
